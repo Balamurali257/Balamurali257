@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Balamurali 👋
 
-<!--
-**Balamurali257/Balamurali257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science (Data Science & Analytics)
 
-Here are some ideas to get you started:
+🏫 SSM College of Arts & Science, Dindigul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+
+* Python
+* Java
+* C
+* C++
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Snowflake
+* Oracle SQL
+
+📊 Areas of Interest
+
+* Data Analytics
+* Artificial Intelligence
+* Software Development
+* Data Science
+
+🚀 Current Activities
+
+* AI Web Development Intern – InAmigos Foundation
+* Python for Data Analytics Intern – Adroit Technologies
+
+🏆 Leadership
+
+* Community Services Director (Head), Rotaract Club
+
+🔗 Connect With Me
+
+* LinkedIn: linkedin.com/in/balamurali-s-9a5366356
+* GitHub: github.com/Balamurali257
+
+📈 Always learning, building projects, and exploring new technologies.
